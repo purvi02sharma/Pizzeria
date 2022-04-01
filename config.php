@@ -5,9 +5,9 @@ $user = "root";
 $pass = "";
 $database = "loginPizza";
 
-$conn = mysqli_connect($server, $user, $pass,$database);
+$con = mysqli_connect($server, $user, $pass,$database);
 
-if (!$conn) {
+if (!$con) {
     die("<script>alert('Connection Failed.')</script>");
 }
 
