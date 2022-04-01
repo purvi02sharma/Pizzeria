@@ -51,7 +51,6 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Amatic SC", sans-serif}
 <a href="#about" class="w3-bar-item w3-button">ABOUT</a>
 <a href="#contact" class="w3-bar-item w3-button">CONTACT</a>
 <a href="logout.php" class="w3-bar-item w3-button">Logout</a>
-
 </div>
   
 <!-- Header image -->
@@ -153,7 +152,7 @@ class="w3-display-container w3-grayscale-min">
 <p class="w3-center w3-xlarge w3-padding-32">Made By <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank">PURVI SHARMA</a></p>
 </div>
 
-<!-- End Content -->
+
 </div>
 </body>
 </html>
