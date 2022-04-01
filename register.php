@@ -69,7 +69,7 @@ mysqli_close($conn);
 
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="style1.css">
 
 	<title>Register Form - Pizza</title>
 </head>
