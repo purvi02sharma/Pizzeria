@@ -37,7 +37,7 @@ CREATE TABLE `users` (
 
 --
 -- Dumping data for table `users`
---
+
 
 INSERT INTO `users` (`id`, `username`, `email`, `password`) VALUES
 (8, 'Pure Coding', 'purecodingofficial@gmail.com', '0139a3c5cf42394be982e766c93f5ed0');
